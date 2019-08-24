@@ -1,0 +1,11 @@
+{
+  "path": {
+    "object": "/home/pwwiur/Desktop/Projects/Sendo/object/"
+  },
+  "database": {
+    "host": "tcp://127.0.0.1:3306",
+    "name": "sendo",
+    "username": "pwwiur",
+    "password": "F9U8NSzfRX8cYdWv"
+  }
+}
