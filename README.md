@@ -1,5 +1,5 @@
 # Sendo
-This compiler server is made for [Sendo](https://www.amirforsati.ir/doc/7) language. Which can be used by third party libraries to connect this server by various programming languages.
+This compiler is made for [Sendo](https://www.amirforsati.ir/doc/7) language. It has a runnable server which can be used by third party libraries to connect to the compiler by various programming languages.
 
 ## Requirements
  - C++ compiler
